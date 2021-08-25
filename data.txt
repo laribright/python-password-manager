@@ -1,0 +1,5 @@
+Facebook | test@gmail.com | 123456
+Twitter | test@gmail.com | 123456
+Netflix | test@gmail.com | testNet
+Amazon | test@gmail.com | testing
+blog | test@gmail.com | 23456
